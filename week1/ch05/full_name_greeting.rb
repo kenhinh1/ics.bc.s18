@@ -1,4 +1,5 @@
 puts 'Hello there, and what\'s your first name?'
+
 first = gets.chomp
 puts 'Your name is ' + first + '? What a lovely name!'
 puts 'What is your middle name, ' + 'name' + '?'
